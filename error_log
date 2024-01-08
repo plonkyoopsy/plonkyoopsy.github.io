@@ -1,0 +1,2 @@
+[20-Nov-2023 00:17:15 Australia/Sydney] PHP Warning:  Cannot modify header information - headers already sent in /home/sternmi1/public_html/wp-includes/load.php on line 160
+[20-Nov-2023 00:17:15 Australia/Sydney] PHP Warning:  Cannot modify header information - headers already sent in /home/sternmi1/public_html/wp-includes/load.php on line 161
